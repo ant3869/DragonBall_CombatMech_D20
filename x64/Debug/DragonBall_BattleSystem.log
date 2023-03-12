@@ -1,0 +1,47 @@
+﻿  NEWBATTLESYSTEMTEST.cpp
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(25,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(25,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(25,50): warning C4309: 'initializing': truncation of constant value
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(25,61): warning C4309: 'initializing': truncation of constant value
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(25,72): warning C4309: 'initializing': truncation of constant value
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(25,82): warning C4309: 'initializing': truncation of constant value
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(127,4): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(197,5): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(236,15): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(268,63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(421,64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(443,64): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(448,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(452,106): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(1622,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(1693,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(1751,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(1752,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(1753,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(1754,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(1755,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(1976,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(1985,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(3400,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(3401,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(3402,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(3403,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(3404,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(3639,26): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(3795,27): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(3796,27): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(3797,27): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(3798,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(4199,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(4204,63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(4242,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(4262,62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(4349,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(4354,61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(4398,64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(4562,14): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(4828,57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(4945,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(5053,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\Desktop\Ant Game\NEWBATTLESYSTEMTEST.cpp(5064,57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DragonBall_BattleSystem.vcxproj -> C:\Users\Anthony\source\repos\DragonBall_BattleSystem\x64\Debug\DragonBall_BattleSystem.exe
